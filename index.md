@@ -18,7 +18,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 * [Scopio](https://github.com/Holeryn/Scopio)
 * [EmacsInit](https://github.com/Holeryn/EmacsInit)
 * [QUEUE](https://github.com/Holeryn/QUEUE)
-* [Fraction_Utils]('https://github.com/Holeryn/Fraction_Utils')
+* [Fraction_Utils](https://github.com/Holeryn/Fraction_Utils)
 
 
 ## Stuffs that i use
