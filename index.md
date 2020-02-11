@@ -9,6 +9,8 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 * Digital Elettronics
 * Linux
 * pic and mcu programming
+* Arduino
+* Robotics
 
 ## My repositories
 * [ASM_utils](https://github.com/Holeryn/ASM_utils)
