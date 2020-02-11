@@ -28,3 +28,6 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 * Emacs
 * Open suse Tumbleweed (Primary workspace)
 * Arch linux (laptop)
+
+## My best friend
+[Arandolf](https://github.com/Arandolf) He is really sexy, lol
