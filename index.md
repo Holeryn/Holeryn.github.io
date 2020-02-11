@@ -1,5 +1,5 @@
 ## Holeryn page
-yo, I am Holeryn, I am an Italian Aspiring OS developer, currently studying linux kernel and doing strange hardware stuffs.
+yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying linux kernel and doing strange hardware stuffs.
 
 ## Knowledge
 * Assembly 8086 (masm,nasm,AT&T/gas)
@@ -18,3 +18,9 @@ yo, I am Holeryn, I am an Italian Aspiring OS developer, currently studying linu
 * [EmacsInit]('https://github.com/Holeryn/EmacsInit')
 * [QUEUE]('https://github.com/Holeryn/QUEUE')
 * [Fraction_Utils]('https://github.com/Holeryn/Fraction_Utils')
+
+
+## Stuffs that i use
+* Emacs
+* Open suse Tumbleweed (Primary workspace)
+* Arch linux (laptop)
