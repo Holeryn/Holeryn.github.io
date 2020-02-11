@@ -7,6 +7,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 * Assembly PIC16F1619
 * Digital Elettronics
 * Linux
+* Bare metal programming
 * pic and mcu programming
 * Arduino
 * Java(I learned it some time ago and i heated him, it is too abstracted)
