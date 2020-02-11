@@ -5,11 +5,11 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 * Assembly 8086 (masm,nasm,AT&T/gas)
 * C
 * Assembly PIC16F1619
-* Java(I learned it some time ago and i heated him, it is too abstracted)
 * Digital Elettronics
 * Linux
 * pic and mcu programming
 * Arduino
+* Java(I learned it some time ago and i heated him, it is too abstracted)
 * Robotics
 
 ## My repositories
