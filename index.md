@@ -26,7 +26,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 
 ## Stuffs that i use
 * Emacs
-* Open suse Tumbleweed (Primary workspace)
+* Parabola Gnu Linux-libre (Primary workspace)
 * Arch linux (laptop)
 
 ## My best friend
