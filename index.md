@@ -16,6 +16,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying lin
 ## My repositories
 * [ASM_utils](https://github.com/Holeryn/ASM_utils)
 * [CHIP8](https://github.com/Holeryn/CHIP8)
+* [SVM](https://github.com/Holeryn/SVM)
 * [hdump](https://github.com/Holeryn/hdump)
 * [Baremetal_stuffs](https://github.com/Holeryn/Baremetal_stuffs)
 * [Sound](https://github.com/Holeryn/Sound)
