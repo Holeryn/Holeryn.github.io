@@ -5,7 +5,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 * Assembly 8086 (masm,nasm,AT&T/gas)
 * C
 * Assembly PIC16F1619
-* Operative systems
+* Operating systems
 * Digital Elettronics
 * Linux
 * Bare metal programming
