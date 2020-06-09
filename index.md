@@ -29,7 +29,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 
 ## Stuffs that i use
 * Emacs
-* Parabola Gnu Linux-libre (Primary workspace)
+* Debian Gnu Linux (Primary workspace)
 * Arch linux (laptop)
 
 ## My best friend
