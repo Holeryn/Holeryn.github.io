@@ -22,6 +22,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 * [hdump](https://github.com/Holeryn/hdump)
 * [Baremetal_stuffs](https://github.com/Holeryn/Baremetal_stuffs)
 * [Sound](https://github.com/Holeryn/Sound)
+* [perl_shell](https://github.com/Holeryn/perl_shell)
 * [Scopio](https://github.com/Holeryn/Scopio)
 * [EmacsInit](https://github.com/Holeryn/EmacsInit)
 * [QUEUE](https://github.com/Holeryn/QUEUE)
