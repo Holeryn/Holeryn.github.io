@@ -31,8 +31,8 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 
 ## Stuffs that i use
 * Emacs
-* Debian Gnu Linux (Primary workspace)
-* Arch linux (laptop)
+* Debian Gnu/Linux (Primary workspace)
+* Arch Gnu/linux (laptop)
 
 ## My best friend
 [Arandolf](https://github.com/Arandolf) He is really sexy, lol
