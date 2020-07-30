@@ -5,9 +5,10 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 * Assembly 8086 (masm,nasm,AT&T/gas)
 * C
 * Operating systems
+* Linux
 * Digital Elettronics
 * Assembly PIC16F1619
-* Linux
+* Computaional-geometry
 * Perl
 * Bare metal programming
 * pic and mcu programming
@@ -23,6 +24,7 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Mod
 * [Baremetal_stuffs](https://github.com/Holeryn/Baremetal_stuffs)
 * [Sound](https://github.com/Holeryn/Sound)
 * [Triangulation](https://github.com/Holeryn/Triangulation)
+* [Convex-hull](https://github.com/Holeryn/Convex-Hull/tree/master)
 * [perl_shell](https://github.com/Holeryn/perl_shell)
 * [Scopio](https://github.com/Holeryn/Scopio)
 * [EmacsInit](https://github.com/Holeryn/EmacsInit)
