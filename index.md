@@ -1,5 +1,5 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Operating Systems Design And Implementation (Third edition by Andrew S.Tannebaum and  Woodhull Tanenbaum) and doing strange hardware stuffs.
+yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Compilers principels,techinque and tool(Alfred V.aho , Monica S.lam, Ravi Sethi, Jeffrey D.Ukkman) and doing strange hardware stuffs.
 
 ## Knowledge
 * Assembly 8086 (masm,nasm,AT&T/gas)
