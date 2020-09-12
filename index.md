@@ -3,9 +3,9 @@ yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Com
 
 ## Computer Science Knowledge 
 * Operating systems
-* Computaional geometry
 * Compilers
 * Formal Language Theory
+* Computaional geometry
 
 ## Programming Knowledge
 * Assembly 8086 (masm,nasm,AT&T/gas) and PIC16F1619
