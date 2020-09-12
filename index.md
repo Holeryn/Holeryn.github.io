@@ -1,20 +1,25 @@
 ## Holeryn page
 yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Compilers principels,techinque and tool(Alfred V.aho , Monica S.lam, Ravi Sethi, Jeffrey D.Ukkman) and doing strange hardware stuffs.
 
-## Knowledge
-* Assembly 8086 (masm,nasm,AT&T/gas)
-* C
+## Computer Science Knowledge 
 * Operating systems
-* Linux
-* Digital Elettronics
-* Assembly PIC16F1619
 * Computaional geometry
+* Compilers
+* Formal Language Theory
+
+## Programming Knowledge
+* Assembly 8086 (masm,nasm,AT&T/gas) and PIC16F1619
+* C
 * Perl
+* Linux
 * Bare metal programming
 * pic and mcu programming
+* Java (I learned it some time ago and i heated him, it is too abstracted)
+
+## Some Elettronic Knowledge
+* Digital Elettronics
 * Arduino
-* Java(I learned it some time ago and i heated him, it is too abstracted)
-* Robotics
+* Robotics (just a little)
 
 ## My repositories
 * [ASM_utils](https://github.com/Holeryn/ASM_utils)
