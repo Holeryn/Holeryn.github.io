@@ -1,5 +1,5 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring OS developer, currently studying Compilers principels,techinque and tool(Alfred V.aho , Monica S.lam, Ravi Sethi, Jeffrey D.Ukkman) and powering my maths skills.
+yo!, I am Holeryn, I am an Italian Aspiring OS researcher, currently studying Compilers principels,techinque and tool(Alfred V.aho , Monica S.lam, Ravi Sethi, Jeffrey D.Ukkman) and powering my maths skills.
 
 ## Computer Science Knowledge 
 * Operating systems
