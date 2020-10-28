@@ -1,5 +1,5 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring OS researcher.
+yo!, I am Holeryn, I am an Italian Aspiring OS researcher, currently studying Number theory.
 
 ## Computer Science Knowledge 
 * Operating systems
