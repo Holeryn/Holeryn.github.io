@@ -1,11 +1,16 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring OS researcher, currently studying Number theory.
+yo!, I am Holeryn, I am an Italian Aspiring OS researcher, currently studying Calculus (An intuitive and physical approach, by Morris Kline)
 
 ## Computer Science Knowledge 
 * Operating systems
 * Compilers
 * Formal Language Theory
 * Computetional geometry
+
+## Mathematics Knowledge
+* Calculus
+* Number theory
+* a bit of linear algebra
 
 ## Programming Knowledge
 * Assembly 8086 (masm,nasm,AT&T/gas) and PIC16F1619
