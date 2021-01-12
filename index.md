@@ -1,5 +1,5 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring OS researcher, currently studying Calculus (An intuitive and physical approach, by Morris Kline)
+yo!, I am Holeryn, I am an Italian Aspiring Theoretical computer scientist, currently studying Calculus (An intuitive and physical approach, by Morris Kline)
 
 ## Computer Science Knowledge 
 * Operating systems
