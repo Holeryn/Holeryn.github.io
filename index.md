@@ -1,5 +1,5 @@
 ## Holeryn page
-yo!, I am Holeryn, I am an Italian Aspiring Theoretical computer scientist, currently studying Calculus (An intuitive and physical approach, by Morris Kline)
+I am Holeryn, I am an Italian Aspiring Theoretical computer scientist.
 
 ## Computer Science Knowledge 
 * Operating systems
@@ -46,6 +46,3 @@ yo!, I am Holeryn, I am an Italian Aspiring Theoretical computer scientist, curr
 * Emacs
 * Debian Gnu/Linux (Primary workspace)
 * Arch Gnu/linux (laptop)
-
-## My best friend
-[Arandolf](https://github.com/Arandolf) He is really sexy, lol
