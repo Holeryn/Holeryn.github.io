@@ -1,5 +1,5 @@
 ## Holeryn page
-I am Holeryn, I am an Italian Aspiring Theoretical computer scientist.
+Hello, I am holeryn an aspiring theoretical computer scientist 
 
 ## Computer Science Knowledge 
 * Operating systems
@@ -24,7 +24,7 @@ I am Holeryn, I am an Italian Aspiring Theoretical computer scientist.
 ## Some Elettronic Knowledge
 * Digital Elettronics
 * Arduino
-* Robotics (just a little)
+* a bit of robotics
 
 ## My repositories
 * [ASM_utils](https://github.com/Holeryn/ASM_utils)
