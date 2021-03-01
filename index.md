@@ -9,6 +9,7 @@ Hello, I am holeryn an aspiring theoretical computer scientist
 
 ## Mathematics Knowledge
 * Calculus
+* Discrete mathematics
 * Number theory
 * a bit of linear algebra
 
