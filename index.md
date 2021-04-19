@@ -36,6 +36,7 @@ Hello, I am holeryn an aspiring theoretical computer scientist
 * [Sound](https://github.com/Holeryn/Sound)
 * [Triangulation](https://github.com/Holeryn/Triangulation)
 * [Convex-hull](https://github.com/Holeryn/Convex-Hull/tree/master)
+* [Hulam-Spiral](https://github.com/Holeryn/Hulam-Spiral)
 * [perl_shell](https://github.com/Holeryn/perl_shell)
 * [Scopio](https://github.com/Holeryn/Scopio)
 * [EmacsInit](https://github.com/Holeryn/EmacsInit)
